@@ -11,7 +11,7 @@ I'm a coder who enjoys front end engineering and web development, located on the
 </a>
 <a href="https://madisoneckstromportfolio.netlify.app/">
   <img 
-    src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/126f176a-dce0-4eda-8162-5fd77c91ca03" 
+    src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/fc170a88-a05e-457a-9b74-2dae5a2046c9" 
     alt="My Website Link"
   ></img>
 </a>
