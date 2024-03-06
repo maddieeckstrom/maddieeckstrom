@@ -9,7 +9,7 @@ I'm a coder who enjoys front end engineering and web development, located on the
     alt="My LinkedIn Link"
   ></img>
 </a>
-<a href="https://madisoneckstromportfolio.netlify.app/">
+<a href="https://www.maddieeckstrom.com/">
   <img 
     src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/fc170a88-a05e-457a-9b74-2dae5a2046c9" 
     alt="My Website Link"
