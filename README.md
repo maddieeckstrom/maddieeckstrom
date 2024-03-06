@@ -13,7 +13,10 @@
   ></img>
 </a>
 
-### I enjoy front end engineering and development. Click on the icons above to get to know me better!
+#### I enjoy front end engineering and web development.
+#### Click on the icons above to get to know me better!
+
+#### Contact me through the email form on my website, linked above as the "me" icon.
 <!--
 
 - 🔭 I’m currently working on ...
