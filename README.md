@@ -13,6 +13,7 @@
   ></img>
 </a>
 
+## I enjoy front end engineering and development. Click on the icons above to get to know me better!
 <!--
 
 - 🔭 I’m currently working on ...
