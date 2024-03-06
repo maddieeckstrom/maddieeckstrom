@@ -1,5 +1,8 @@
 # Hello, I'm Madison!
 
+I'm a coder who enjoys front end engineering and web development, located on the island of Oahu, Hawaii.
+### Click on the icons below to get to know me better!
+
 <a href="https://www.linkedin.com/in/madison-eckstrom/">
   <img 
     src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/26f9e855-b248-4aaf-adfe-d0770df598fa"
@@ -12,11 +15,6 @@
     alt="My Website Link"
   ></img>
 </a>
-
-<p></p>
-
-I'm a coder who enjoys front end engineering and web development, located on the island of Oahu, Hawaii.
-### Click on the icons above to get to know me better!
 
 <!--
 
