@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/madison-eckstrom/">
   <img 
-    src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/6c508ace-8fd4-4966-9a6f-df60108c6e6b"
+    src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/26f9e855-b248-4aaf-adfe-d0770df598fa"
     alt="My LinkedIn Link"
   ></img>
 </a>
