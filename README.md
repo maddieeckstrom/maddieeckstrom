@@ -12,7 +12,9 @@
     alt="My Website Link"
   ></img>
 </a>
-<br/>
+
+<p></p>
+
 I'm a coder who enjoys front end engineering and web development, located on the island of Oahu, Hawaii.
 ### Click on the icons above to get to know me better!
 
