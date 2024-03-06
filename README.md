@@ -1,7 +1,11 @@
-### Hello,
-### I'm Madison!
+### Hello, I'm Madison!
 
-
+<a href="https://www.linkedin.com/in/madison-eckstrom/">
+  <img src="" alt="My LinkedIn Link"></img>
+</a>
+<a href="https://madisoneckstromportfolio.netlify.app/">
+  <img src="" alt="My Website Link"></img>
+</a>
 
 <!--
 
