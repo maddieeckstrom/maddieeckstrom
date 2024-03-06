@@ -2,13 +2,13 @@
 
 <a href="https://www.linkedin.com/in/madison-eckstrom/">
   <img 
-    src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/13ecccd0-97e5-4b0d-b8a7-9f03372aba5f"
+    src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/6c508ace-8fd4-4966-9a6f-df60108c6e6b"
     alt="My LinkedIn Link"
   ></img>
 </a>
 <a href="https://madisoneckstromportfolio.netlify.app/">
   <img 
-    src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/66114b4f-09e3-4819-b0cd-75cf89a37a70" 
+    src="https://github.com/maddieeckstrom/maddieeckstrom/assets/140349140/126f176a-dce0-4eda-8162-5fd77c91ca03" 
     alt="My Website Link"
   ></img>
 </a>
