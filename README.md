@@ -1,4 +1,4 @@
-### Hello, I'm Madison!
+## Hello, I'm Madison!
 
 <a href="https://www.linkedin.com/in/madison-eckstrom/">
   <img 
@@ -13,7 +13,7 @@
   ></img>
 </a>
 
-## I enjoy front end engineering and development. Click on the icons above to get to know me better!
+### I enjoy front end engineering and development. Click on the icons above to get to know me better!
 <!--
 
 - 🔭 I’m currently working on ...
